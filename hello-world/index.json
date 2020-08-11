@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
+  "title": "Certified Kubernetes Security Specialist (CKS)",
   "description": "Your First Scenario",
-  "difficulty": "beginner",
-  "time": "2 minutes",
+  "difficulty": "intermediate",
+  "time": "45 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
